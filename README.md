@@ -1,2 +1,2 @@
 # information
-Information 
+This is a simple nodejs project.
